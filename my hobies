@@ -1,0 +1,8 @@
+# Arkadaşlarınızı şaşırtın!
+
+import random
+Me = ['tarih öncesi hayvanlaı seviyorum','satranç oynamayı seviyorum','tincercadte tasarım yapmayı seviyorum']
+print(random.choice(Me))
+
+Me2= ['en sevdiğim yemek içli köfte','en sevdiğim hobi dinozorları araştırmak']
+print(random.choice(Me2))
